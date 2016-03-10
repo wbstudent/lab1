@@ -2,6 +2,18 @@
 ##Kwadrat znaków
 Wynikiem pracy dzisiejszego programu ma być generator kwadratów, zawierających losowe znaki, wykorzystujący tak zwane *seed value*.
 
+###Ocena dostateczna
+- uzupełnij niniejszy kod, w funkcji `charSquare` tworząc, a w funkcji `drawCharSquare` wyświetlając dwuwymiarową, dynamicznie alokowaną tablicę znaków,
+- znaki w tablicy mają być generowane losowo,
+- nie możesz modyfikować prototypów funkcji,
+- nie możesz modyfikować funkcji `main()`.
+
+###Ocena dobra
+- wprowadź drugi parametr wiersza poleceń, będący *seed value*, wykorzystywanym w funkcji [`srand()`](http://www.cplusplus.com/reference/cstdlib/srand/).
+
+###Ocena bardzo dobra
+- tak wypełnianie, jak wyświetlanie tablicy `square` zrealizuj przy użyciu pojedynczej pętli `for`, ograniczając jej ciało do jednej instrukcji.
+
 ##Poprawny wynik pracy programu
 Poprawnym wynikiem pracy programu, po wykonaniu pliku `Makefile`, jest poniższy rezultat. Utworzone kwadraty mogą być ich lustrzanymi odbiciami. Dla rozwiązania na ocenę dostateczną, wartości mogą być inne.
 
