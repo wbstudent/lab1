@@ -15,7 +15,7 @@ Wynikiem pracy dzisiejszego programu ma być generator kwadratów, zawierającyc
 - tak wypełnianie, jak wyświetlanie tablicy `square` zrealizuj przy użyciu pojedynczej pętli `for`, ograniczając jej ciało do jednej instrukcji.
 
 ##Poprawny wynik pracy programu
-Poprawnym wynikiem pracy programu, po wykonaniu pliku `Makefile`, jest poniższy rezultat. Utworzone kwadraty mogą być lustrzanymi odbiciami tych poniższych. Dla rozwiązania na ocenę dostateczną, wartości mogą być inne.
+Poprawnym wynikiem pracy programu, po wykonaniu pliku `Makefile`, jest poniższy rezultat. Utworzone kwadraty mogą być lustrzanymi odbiciami zaprezentowanych. Dla rozwiązania na ocenę dostateczną, wartości mogą być inne.
 
 	g++ main.cpp -o lab1
 	./lab1 1 666
