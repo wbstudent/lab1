@@ -4,6 +4,7 @@ Wynikiem pracy dzisiejszego programu ma być generator kwadratów, zawierającyc
 
 ###Ocena dostateczna
 - uzupełnij niniejszy kod, w funkcji `charSquare` tworząc, a w funkcji `drawCharSquare` wyświetlając dwuwymiarową, dynamicznie alokowaną tablicę znaków,
+- wielkość kwadratu pobieraj z parametru wiersza poleceń,
 - znaki w tablicy mają być generowane losowo, przy użyciu funkcji `rand()`,
 - nie możesz modyfikować prototypów funkcji.
 
