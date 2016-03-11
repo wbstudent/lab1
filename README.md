@@ -5,8 +5,7 @@ Wynikiem pracy dzisiejszego programu ma być generator kwadratów, zawierającyc
 ###Ocena dostateczna
 - uzupełnij niniejszy kod, w funkcji `charSquare` tworząc, a w funkcji `drawCharSquare` wyświetlając dwuwymiarową, dynamicznie alokowaną tablicę znaków,
 - znaki w tablicy mają być generowane losowo, przy użyciu funkcji `rand()`,
-- nie możesz modyfikować prototypów funkcji,
-- nie możesz modyfikować funkcji `main()`.
+- nie możesz modyfikować prototypów funkcji.
 
 ###Ocena dobra
 - wprowadź drugi parametr wiersza poleceń, będący *seed value*, wykorzystywanym w funkcji [`srand()`](http://www.cplusplus.com/reference/cstdlib/srand/).
