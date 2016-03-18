@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//heheszki
 char **charSquare(int n);
 void drawCharSquare(char **square, int n);
 
