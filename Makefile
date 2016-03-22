@@ -1,5 +1,5 @@
 all:
-	g++ main.cpp -o lab1
+	g++ -Wall main.cpp -o lab1
 	./lab1 1 666
 	./lab1 2 646
 	./lab1 3 123
